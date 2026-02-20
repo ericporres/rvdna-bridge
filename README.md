@@ -84,7 +84,7 @@ To download your 23andMe data: go to [23andMe](https://www.23andme.com/) → Set
 
 ## Background
 
-This bridge was built in a single [Claude Cowork](https://claude.ai) session. Claude read through rvDNA's 4,679-line Rust codebase, identified the data format gap between continuous DNA sequences and sparse SNP genotyping, and wrote the Python adapter. The full story is on [Prompted by Eric](https://promptedbyeric.substack.com/).
+This bridge was built in a single [Claude Cowork](https://claude.ai) session. Claude read through rvDNA's 4,679-line Rust codebase, identified the data format gap between continuous DNA sequences and sparse SNP genotyping, and wrote the Python adapter. The full story is on [Beyond Reason](https://promptedbyeric.substack.com/).
 
 rvDNA is part of [RuVector](https://github.com/ruvnet/ruvector) — Reuven Cohen's unified vector and graph substrate for treating intelligence as structured state.
 
